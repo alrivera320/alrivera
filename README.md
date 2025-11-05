@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 **[I'm Alejandre R. Rivera Jr.]**  
-📧 [alrivera320.gmail.com]  
+📧 (alrivera320.gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alejandre-rivera-jr-693920151)  
 💻 [GitHub Profile](https://github.com/alrivera320)
 
