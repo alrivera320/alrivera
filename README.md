@@ -39,7 +39,7 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 
 ---
 
-### <img width="15" height="15" alt="data-integration" src="https://github.com/user-attachments/assets/3869b34d-46bc-43ec-84d4-48565e240861" /> Developed Data Warehouse using
+### <img width="15" height="15" alt="data-integration" src="https://github.com/user-attachments/assets/3869b34d-46bc-43ec-84d4-48565e240861" /> Developed Data Warehouse from OLTP to OLAP database using SSIS
 **Environment:** SQL Server 2016–2019  
 **Objective:** Strengthen database security at rest.  
 - Deployed **Transparent Data Encryption (TDE)** to production databases.
