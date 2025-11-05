@@ -40,9 +40,8 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 ---
 
 ### <img width="15" height="15" alt="data-integration" src="https://github.com/user-attachments/assets/3869b34d-46bc-43ec-84d4-48565e240861" /> Developed Data Warehouse from OLTP to OLAP database using SSIS for Business Intelligence Team
-**Environment:** SQL Server 2016–2019  
-**Objective:** Strengthen database security at rest.  
-- Deployed **Transparent Data Encryption (TDE)** to production databases.
+**Environment:** SQL Server 2019  
+**Objective:** To implement automated E.T.L. process using SSIS and SQL Server Agent 
 
 ---
 
@@ -56,7 +55,7 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 
 ### ⚙️ Performance Tuning and Query Optimization
 **Environment:** Mixed workloads (OLTP + Reporting)  
-- Identified slow queries using **Query Store** and **Extended Events**.  
+- Identified slow queries using **Solarwinds DPA**, **Activity Monitor** for real-time views and **Execution Plans** to visualize query processing
 - Optimized indexing strategy, reducing average query response time by **68%**.  
 - Implemented **automatic statistics updates** 
 
