@@ -34,17 +34,16 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 **Environment:** SQL Server 2019 Enterprise, Windows Server 2019  
 **Role:** Lead DBA  
 - Designed and implemented **Always On Availability Groups** for high availability and disaster recovery.  
-- Configured listener-based failover for ERP and reporting databases.  
+- Configured listener-based failover for OLTP databases.  
 - Achieved **99.90% uptime** with secondary read-only replicas for analytics.
 
 ---
 
 ### <img width="15" height="15" alt="data-integration" src="https://github.com/user-attachments/assets/3869b34d-46bc-43ec-84d4-48565e240861" /> Developed Data Warehouse from OLTP to OLAP database using SSIS for Business Intelligence Team
 **Environment:** SQL Server 2019  
-**Objective:** To implement automated E.T.L. process using SSIS and SQL Server Agent 
+**Objective:** To implement automated E.T.L. process using SSIS, T-SQL and SQL Server Agent 
 
 ---
-
 
 ### 🔐 Transparent Data Encryption (TDE) Rollout
 **Environment:** SQL Server 2016–2019  
@@ -62,10 +61,9 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 ---
 
 ### ☁️ Migration to Azure SQL Managed Instance
-**Scope:** 9 on-premise databases with minimal downtime  
-- Used **Azure Database Migration Service (DMS)** for seamless cutover.  
-- Created **failover runbook** and post-migration validation scripts.  
-- Achieved downtime of less than **15 minutes** during migration.
+**Scope:** Migrated on-premise databases 
+- Used **Azure Database Migration Service (DMS)**.  
+- Created post-migration validation scripts.  
 
 ---
 
