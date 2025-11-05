@@ -56,7 +56,7 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 ### ⚙️ Performance Tuning and Query Optimization
 **Environment:** Mixed workloads (OLTP + Reporting)  
 - Identified slow queries using **Solarwinds DPA**, **Activity Monitor** for real-time views and **Execution Plans** to visualize query processing
-- Optimized indexing strategy, reducing average query response time by **68%**.  
+- Optimized indexing strategy, reducing average query response time
 - Implemented **automatic statistics updates** 
 
 ---
