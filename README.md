@@ -2,8 +2,8 @@
 
 ## 👋 About Me
 **[Your Name]**  
-📧 [youremail@example.com]  
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 [alrivera320@gmail.com]  
+🌐 [LinkedIn Profile](www.linkedin.com/in/alejandre-rivera-jr-69392015)  
 💻 [GitHub Profile](https://github.com/yourhandle)
 
 ---
