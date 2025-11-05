@@ -4,7 +4,7 @@
 **[Your Name]**  
 📧 [alrivera320@gmail.com]  
 🌐 [LinkedIn Profile](www.linkedin.com/in/alejandre-rivera-jr-69392015)  
-💻 [GitHub Profile](https://github.com/yourhandle)
+💻 [GitHub Profile](https://github.com/yourhandle](https://github.com/alrivera320))
 
 ---
 
