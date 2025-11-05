@@ -66,15 +66,3 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 - Created post-migration validation scripts.  
 
 ---
-
-## 💾 Sample Code & Automation
-
-### Database Schema Example
-```sql
-CREATE TABLE Player (
-    PlayerID INT IDENTITY PRIMARY KEY,
-    FullName NVARCHAR(100),
-    Position NVARCHAR(50),
-    DateOfBirth DATE,
-    CreatedAt DATETIME DEFAULT GETDATE()
-);
