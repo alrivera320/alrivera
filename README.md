@@ -39,6 +39,14 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 
 ---
 
+### <img width="512" height="512" alt="data-integration" src="https://github.com/user-attachments/assets/3869b34d-46bc-43ec-84d4-48565e240861" /> Developed Data Warehouse using
+**Environment:** SQL Server 2016–2019  
+**Objective:** Strengthen database security at rest.  
+- Deployed **Transparent Data Encryption (TDE)** to production databases.
+
+---
+
+
 ### 🔐 Transparent Data Encryption (TDE) Rollout
 **Environment:** SQL Server 2016–2019  
 **Objective:** Strengthen database security at rest.  
@@ -55,7 +63,7 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 ---
 
 ### ☁️ Migration to Azure SQL Managed Instance
-**Scope:** on-premise database with minimal downtime  
+**Scope:** 9 on-premise databases with minimal downtime  
 - Used **Azure Database Migration Service (DMS)** for seamless cutover.  
 - Created **failover runbook** and post-migration validation scripts.  
 - Achieved downtime of less than **15 minutes** during migration.
