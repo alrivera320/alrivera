@@ -43,14 +43,12 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 **Environment:** SQL Server 2016–2019  
 **Objective:** Strengthen database security at rest.  
 - Deployed **Transparent Data Encryption (TDE)** to production databases.  
-- Automated certificate rotation using PowerShell scripts.  
-- Reduced compliance audit findings by 100%.
 
 ---
 
 ### ⚙️ Performance Tuning and Query Optimization
 **Environment:** Mixed workloads (OLTP + Reporting)  
-- Identified top 10 slow queries using **Query Store** and **Extended Events**.  
+- Identified slow queries using **Query Store** and **Extended Events**.  
 - Optimized indexing strategy, reducing average query response time by **68%**.  
 - Implemented **automatic statistics updates** 
 
