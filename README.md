@@ -4,7 +4,7 @@
 **[Your Name]**  
 📧 [youremail@example.com]  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alejandre-rivera-jr-693920151)  
-💻 [GitHub Profile](https://github.com/yourhandle)
+💻 [GitHub Profile](https://github.com/alrivera320)
 
 ---
 
