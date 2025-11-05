@@ -22,9 +22,9 @@ Experienced **Database Administrator (DBA) / Database Developer** with **[10+] y
 | **Performance Tuning** | Query optimization, Index strategies, Execution plan analysis, Statistics management |
 | **Automation & Scripting** | T-SQL, Bash, SQL Agent Jobs, SSIS |
 | **Backup & Recovery** | Full/Differential/Log backups, Recovery models, Point-in-time restore |
-| **Monitoring & Maintenance** | SQL Profiler, SolarWinds DPA, Extended Events, DMVs |
+| **Monitoring & Maintenance** | SQL Profiler, SolarWinds DPA, DMVs |
 | **Cloud Platforms** | Azure SQL Database, Managed Instance |
-| **Tools** | SSMS, Azure Data Studio, Git, Jenkins, Visual Studio Code |
+| **Tools** | SSMS, Azure Data Studio, Git, Visual Studio Code |
 
 ---
 
